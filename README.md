@@ -40,4 +40,16 @@ Histogram of all the numerical features has been plotted to give us an idea of t
 
 ![histogram](https://user-images.githubusercontent.com/69766918/235511503-206842fe-beb2-4a38-bbed-762f121aec94.jpg)
 
+Now What I can Understand: 
 
+1. longitude -  At -122 and -118 degrees are major houses
+2. latitude - Looks correct, at 34 and 37 degrees of latitude are major houses.
+3. housing median age -  At 35 and 15 are two peaks. are these years? max peak is at 50. does this mean major houses in each district are more than 50 years old?!? not very bell-shaped,
+4. total rooms -  Most districts have around 3000 rooms 
+ 5. bedrooms - Looks like most districts have between 300-600 bedrooms
+ 6. population - most districts have population below 3000
+ 7.households - Most districts have around 100-500 households. peak is around 4800
+ 8. median income - very bell-shaped, good distribution, but is this income in dollars? There is no income above 15  most people have income between 2-5     
+ 9.median house value - Need to predict.Bell-shaped, at extreme right there is a surge, is y-axis dollars? does this mean most houses are above 500,000? 
+   
+   
